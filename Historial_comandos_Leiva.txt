@@ -1,0 +1,326 @@
+ls -l
+cat -help
+cat --help
+cat README
+clear
+mkdir clase_5
+ls -l
+cd clase_5
+ls-l
+ls -l
+echo hola
+echo hola > texto1.txt
+cat texto1
+ls -l
+cat text1.txt
+cat texto1.txt
+clear
+ls -ls
+ls -l
+chmod 666 texto1.txt
+ls l
+ls -l
+chmod 664 texto1.txt
+ls -l
+chmod 764 texto1.txt
+ls.l
+ls -l
+clear
+ls -l
+cd .
+cd ..
+ls -l
+chmod -R 777 clase_5
+ls -l
+cd clase_5
+ls .l
+ls -l
+cat <<FIN >script1
+pwd 
+ls -l
+echo Mi primer script
+echo Funciono ok
+FIN
+
+ls -l
+cat script1
+bash script1
+vim script2.sh
+ls -l
+chmod 764 script2.sh
+ls -l
+script2.sh
+./ script2.sh
+script2.sh
+ls -l
+./script2.sh
+ls .l
+ls -l
+clear
+cd ..
+pdw
+cdlear
+clear
+pwd
+ssh-keygen -t ed25519
+cat $HOME/.ssh/*.pub
+ls -la
+ls -la .ssh/
+c
+ls lsclasd
+ls -la
+cat .ssh/
+ls -la 
+cat $HOME/.ssh/*.pub
+ls -la .ssh
+cat .ssh/id_ed25519.pub
+pwd
+mkdir repogit
+cd repogit
+git clone git@github.com:lucasleiva94/tp_AySO_Leiva_lucas.git
+ls -l
+cd 
+cd tp_AySO_leiva_lucas
+cd tp_AySO_Leiva_lucas
+ls -l
+cd repogit
+ls -l
+cd tp_AySO_Leiva_lucas/
+ls -l
+cat README.md 
+cd ..
+cd repogit
+cd tp_AySO_Leiva_lucas/
+ls -l
+clear
+cat /etc/os-release
+grep -i Home_url /etc/os-release
+grep -i Home_url /etc/os-release > datos_url.txt
+ls -l
+git status
+git add .
+git status
+git commit
+git status
+git commit -m "subo el archivo datos_url"
+git config --global user.email "lucas94.leiva@hotmail.com"
+git config --global user.name "lucasleiva94"
+git status
+git commit -m "subo el archivo datos_url"
+git status
+git push
+git status
+whoami
+exit
+clear
+ls -l
+whoami
+clera
+clear
+echo “Usuario=$(whoami)” > datos_usuario.txt
+cat datos_usuario.txt
+ls -l
+git status
+cat clase_5
+cd clase_5
+ls -l
+cd .
+cd ..
+clear
+git status
+git add .
+ls -lt
+cat repogit
+cd repogit
+ls -ltr
+cat tp_AySO_Leiva_lucas/
+cd tp_AySO_Leiva_lucas/
+ls -l
+git status
+clear
+cd ..
+ls -l
+rm -R datos_usuario.txt
+clear
+ls -l
+cd clase_5/
+ls -ltr
+cd ..
+cd repogit
+ls -l
+cd tp_AySO_Leiva_lucas/
+clear
+ls lt
+ls -ltr
+echo “Usuario=$(whoami)” > datos_usuario.txt
+clear
+ls -l
+git status
+git add
+clear
+git status
+git add .
+git status
+git comit
+git commit
+git status
+git push
+git status
+clear
+ls -l
+grep "model name"
+clear
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuarios.txt
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuarios.txt
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+clear
+ls .l
+ls -ltr
+rm -R datos_usuarios.txt 
+clear
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+ls -ltr
+cat datos_usuario.txt
+git status
+git add .}
+git add .
+git status
+git commit
+git status}
+git status
+git push
+git status
+clear
+cat <<EOF >> README.md
+Alumno: Lucas Leiva
+División: 114
+Turno: Mañana
+EOF
+
+clear
+ls -ltr
+cat README.md 
+git add .
+git commit
+git push
+clear
+cd ..
+ls -l
+cd repogit/tp_AySO_Leiva_lucas/
+mkdir materia1 | cd repogit/tp_AySO_Leiva_lucas/ materia1 | mkdir uni1 | mkdir uni2 | mkdir uni3
+clear
+ls -l
+cd materia1/
+ls -l
+cd .
+cd ..
+ls -l
+rm -R materia1 | unit1 | unit2 | unit3
+clear
+ls -l
+rm -R unit1 | rm -R unit2
+ls -l
+rm -R uni1 | rm -R uni2 | rm -R uni3
+ls -l
+clear
+cd ..
+cd repogit/tp_AySO_Leiva_lucas
+ls -
+ls -l
+clear
+cd
+cd ..
+cd..
+cd ..
+ls 
+cd repogit/tp_AySO_Leiva_lucas
+ls -l
+cd home
+ls
+cd vagrant
+ls
+ls -l
+cd repogit
+clear
+cl
+clear
+ls -l
+cd tp_AySO_Leiva_lucas/
+clear
+mkdir materia1 | cd materia1 | mkdir unit1 | mkdir unit2 | mkdir unit3
+ls -l
+rm materia1 | rm unit1 | rm unit2 | rm unit3
+clear
+ls -l
+rm -R materia1 | rm -R unit1 | rm - R unit2 | rm -R unit3
+clear
+ls -l
+rm -R unit2
+ls -l
+mkdir materia1 | cd materia1
+ls -l
+cd materia1
+cd .
+cd ..
+ls -l
+rm -R materia1/
+mkdir materia1 | cd materia1/
+clear
+mkdir -p materia1/{unit1,unit2,unit3}
+ls -l
+cd materia1/
+ls -l
+cd ..
+rm -R materia1/
+ls -l
+clear
+mkdir -p materia1/{uni1,uni2,uni3} | mkdir -p materia2/{uni1,uni2,uni3}
+ls -l
+ls -l materia2
+ls -l materia1
+clear
+echo 
+echo script_dir.sh
+ls -l
+touch script_dir.sh
+ls -l
+vi script_dir.sh 
+cat script_dir.sh 
+vi script_dir.sh 
+ls script_dir.sh 
+cat script_dir.sh 
+vi script_dir.sh 
+clear
+ls -l
+vi script_dir.sh 
+clera
+clear
+ls -l
+cat script_dir.sh 
+rm script_dir.sh
+clear
+ls -l
+touch script_dir.sh
+ls -l
+vi script_dir.sh
+clear
+cat script_dir.sh 
+clear
+ls -l
+chmod 777 script_dir.sh
+clear
+ls -l
+git add.
+git add .
+git commit -m "ADD: Añadiendo script"
+git status
+git push
+clear
+ls -l
+history -a
+cat 
+clear
+history -a
+ls -l
